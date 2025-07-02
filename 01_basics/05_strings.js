@@ -7,6 +7,7 @@ console.log(`My name is ${name} and my repo count is ${repocount}`)
 
 
 const gamename = new String('Ayush-22-450')
+console.log(gamename)
 
 console.log(gamename.split('-',1))
 
@@ -34,3 +35,4 @@ const url = 'https://www.youtube.com/watch?v=sscX432bMZo&t=9762s'
 console.log(url.includes('youtube'))
 
 console.log(url.replace('youtube','linkedin'))
+
